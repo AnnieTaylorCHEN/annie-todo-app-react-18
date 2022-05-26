@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "text": "learn react",
+      "done": true
+    },
+    {
+      "id": "2",
+      "text": "buy books",
+      "done": false
+    },
+    {
+      "id": "3",
+      "text": "feed cat",
+      "done": true
+    },
+    {
+      "id": "4",
+      "text": "throw trash",
+      "done": false
+    },
+    {
+      "id": "44588334-ea27-47e9-98bc-ee763cd7d57a",
+      "text": "adfasdfasdfasd",
+      "done": true
+    }
+  ]
+}

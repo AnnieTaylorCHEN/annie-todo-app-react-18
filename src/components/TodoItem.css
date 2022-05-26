@@ -1,0 +1,18 @@
+li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+li:hover {
+    background-color: var(--gray050);
+}
+
+li span {
+    display: block;
+    padding: 1rem 0;
+}
+
+li span.done {
+    text-decoration: line-through;
+}
